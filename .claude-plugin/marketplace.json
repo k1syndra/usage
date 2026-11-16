@@ -1,5 +1,5 @@
 {
   "name": "usage",
-  "owner": { "name": "K1syndraDev" },
+  "owner": { "name": "k1syndra" },
   "plugins": [{ "name": "usage", "source": "./" }]
 }

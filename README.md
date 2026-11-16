@@ -14,7 +14,7 @@ A Claude Code mod that keeps your plan usage in the status line under the prompt
 At the prompt of a terminal session:
 
 ```
-/plugin install usage --marketplace K1syndraDev/usage
+/plugin install usage --marketplace k1syndra/usage
 ```
 
 Answer `y` to add the marketplace, then pick a scope. Restart the session if the line does not appear.
