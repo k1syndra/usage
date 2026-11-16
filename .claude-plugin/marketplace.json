@@ -1,0 +1,5 @@
+{
+  "name": "usage",
+  "owner": { "name": "K1syndraDev" },
+  "plugins": [{ "name": "usage", "source": "./" }]
+}
